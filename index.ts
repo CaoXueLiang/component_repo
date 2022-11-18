@@ -1,4 +1,4 @@
-import * as sonA from './sonA';
-import * as sonB from './sonB';
+import { sonAMethod } from './sonA';
+import { sonBMethod } from './sonB';
 
-export { sonA, sonB };
+export { sonAMethod, sonBMethod };
