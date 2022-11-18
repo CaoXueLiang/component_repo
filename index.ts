@@ -1,4 +1,4 @@
 import { sonAMethod } from './sonA';
 import { sonBMethod } from './sonB';
-const tmp = '';
-export { sonAMethod, sonBMethod };
+const tmp = 'eeee';
+export { sonAMethod, sonBMethod, tmp };
